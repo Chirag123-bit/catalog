@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
       ),
       // ignore: prefer_const_constructors
       body: Center(
-        child: const Text("Hello World"),
+        child: const Text("Home Page"),
       ),
     );
   }
